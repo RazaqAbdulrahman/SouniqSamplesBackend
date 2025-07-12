@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f049f367-7142-4969-bfeb-627d47656f16" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/SouniqSamplesApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/controller/SoundPackController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/model/CustomerLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/model/LicenseType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/model/Purchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/model/SoundPack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/repository/CustomerLibraryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/repository/PurchaseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/repository/SoundPackRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/service/PurchaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/service/SoundPackService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/souniqsamples/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/souniqsamples/SouniqSamplesApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="f049f367-7142-4969-bfeb-627d47656f16" name="Changes" comment="Update repositories, services, and fix startup bug" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +48,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "C:/Users/Abdul-razaq Lekan/IdeaProjects/SouniqSamplesBackend/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -100,7 +79,20 @@
       <option name="presentableId" value="Default" />
       <updated>1752260187824</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update repositories, services, and fix startup bug">
+      <option name="closed" value="true" />
+      <created>1752317379221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752317379221</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update repositories, services, and fix startup bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update repositories, services, and fix startup bug" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
