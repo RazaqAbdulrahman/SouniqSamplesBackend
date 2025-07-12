@@ -1,6 +1,6 @@
 
 
-package com.souniqsamples;
+package com.souniqamples;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
